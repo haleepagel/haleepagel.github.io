@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# **Halee Pagel**
 
-You can use the [editor on GitHub](https://github.com/haleepagel/haleepagel.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## **Software Engineer**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="./haleepic.jpg" height="200">
 
-### Markdown
+### **Projects**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### ✨Mystic Tear✨ [Google Play Store](https://play.google.com/store/apps/details?id=com.MysticTear.mystictearapp) | [Website](https://www.mystictear.com/) | [GitHub](https://github.com/mystic-tear/mystic-tear)
 
-```markdown
-Syntax highlighted code block
+#### 🍸Kampai Cocktails🍹 [Web App](https://kampai-cocktails.firebaseapp.com/) | [GitHub](https://github.com/kampai-cocktails/kampai-cocktails)
 
-# Header 1
-## Header 2
-### Header 3
+#### 🚚FlyingBee Truck Stops [Web App](http://flying-bee-truck-stop.herokuapp.com/) | [GitHub]
 
-- Bulleted
-- List
+### **Let's chat!**
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/haleepagel/haleepagel.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [LinkedIn](https://www.linkedin.com/in/halee-pagel/)
+- [Twitter](https://www.twitter.com/haleepagel/)
+- [Instagram](https://www.instagram.com/haleepagel/)
+- <halee.pagel@gmail>
